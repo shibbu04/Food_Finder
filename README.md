@@ -5,6 +5,7 @@
 
   <p align="center">
     A modern web application for exploring and discovering food products with detailed nutritional information.
+   Visit [https://foodinfo.vercel.app/](https://foodinfo.vercel.app/) in your browser.
   </p>
 
   <p>
@@ -37,7 +38,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/food-product-explorer.git
+   git clone https://github.com/shibbu04/Food_Finder
    cd food-product-explorer
    ```
 
@@ -111,9 +112,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
