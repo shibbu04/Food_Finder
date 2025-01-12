@@ -5,9 +5,8 @@
 
   <p align="center">
     A modern web application for exploring and discovering food products with detailed nutritional information.
-   Visit [https://foodinfo.vercel.app/](https://foodinfo.vercel.app/) in your browser.
   </p>
-
+  Live Link : [https://foodinfo.vercel.app/]
   <p>
     <a href="#✨-features">Features</a> •
     <a href="#🚀-getting-started">Getting Started</a> •
@@ -39,7 +38,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/shibbu04/Food_Finder
-   cd food-product-explorer
+   cd Food_Finder
    ```
 
 2. Install dependencies:
